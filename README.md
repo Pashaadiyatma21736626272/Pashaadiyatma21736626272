@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Programmer , Tech enthusiast , Hacker , Cyber enthusiast <br>📚 Saya Suka Ilmu Komputer<br>😎 Saya Seorang Cowok Terganteng Di Dunia<br>❤️ " Laura Fila Delfia Br Milala "<br>🏢 Sedang Bekerja Mencintai Laura</h4>
+<h4 align="left">✨ Programmer , Tech enthusiast , Hacker , Cyber enthusiast <br>📚 Saya Suka Ilmu Komputer<br>😎 Saya Seorang Cowok Terganteng Di Dunia<br>❤️ Laura Fila Delfia Br Milala<br>🏢 Sedang Bekerja Mencintai Laura</h4>
 
 ###
 
