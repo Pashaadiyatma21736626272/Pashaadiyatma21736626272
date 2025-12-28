@@ -6,8 +6,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=73&section=header&reversal=false&text=Welcome&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
-
 <h2 align="left">About me : </h2>
 
 ###
