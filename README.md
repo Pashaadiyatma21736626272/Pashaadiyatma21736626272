@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">✨ Programmer Pemula<br>📚 Saya Suka Ilmu Komputer<br>🎲 Fun fact : Saya Seorang Cowok Terganteng Di Dunia<br>❤️ " Laura Fila Delfia Br Milala "<br>🏢 Sedang Bekerja Mencintai Laura</h4>
+<h3 align="left">✨ Programmer Pemula<br>📚 Saya Suka Ilmu Komputer<br>🎲 Fun fact : Saya Seorang Cowok Terganteng Di Dunia<br>❤️ " Laura Fila Delfia Br Milala "<br>🏢 Sedang Bekerja Mencintai Laura</h3>
 
 ###
 
