@@ -3,29 +3,29 @@
 
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=header&reversal=false&text=Welcome&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<h4 align="left">✨ Programmer Pemula<br>📚 Saya Suka Ilmu Komputer <br>🎲 Fun fact : Saya Seorang Pesulap<br>❤️ " Laura Fila Delfia Br Milala "<br>🏢 Sedang Bekerja Mencintai Laura</h4>
+<h3 align="left">✨ Programmer Pemula<br>📚 Saya Suka Ilmu Komputer<br>🎲 Fun fact : Saya Seorang Pesulap<br>❤️ " Laura Fila Delfia Br Milala "<br>🏢 Sedang Bekerja Mencintai Laura</h3>
 
 ###
 
-<h2 align="center">My Code</h2>
+<h2 align="left">My Code</h2>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
@@ -34,11 +34,11 @@
 
 ###
 
-<h2 align="center">My Skill</h2>
+<h2 align="left">My Skill</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
@@ -56,11 +56,11 @@
 
 ###
 
-<h2 align="center">Social Media</h2>
+<h2 align="left">Social Media</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/pasha_adiyatma/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -71,12 +71,8 @@
 
 ###
 
-<h3 align="center">Thanks You Everyone</h3>
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=false&text=Thanks%20You%20Everyone&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
